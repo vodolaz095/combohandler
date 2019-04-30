@@ -4,3 +4,4 @@ pids/
 config.js
 npm-debug.log
 coverage/
+.idea/
